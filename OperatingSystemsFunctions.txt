@@ -1,0 +1,1 @@
+Security is an important function of computer Operating Systems.  Security is what protects the operating system and the information within the system.  This consists of passwords, protection from unauthorized links, and anything involving personal information or security.  Security is the most important first step to an Operating System and nothing would work without it.
